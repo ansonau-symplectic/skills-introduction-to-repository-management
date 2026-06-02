@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ansonau-symplectic
+/src/backend/database.py      @ansonau-symplectic
+/src/backend/routers/auth.py  @ansonau-symplectic
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ansonau-symplectic
